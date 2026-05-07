@@ -20,7 +20,7 @@ I am focused on sharpening my language skills, learning algorithms and building 
 
 ## Languages and Tools
 
-Java · Spring Boot · Python · C · SQL · HTML · CSS · JavaScript · Git · GitHub · VSCode
+[![Languages and Tools](https://skillicons.dev/icons?i=java,spring,python,bash,c,html,css,js,git,github,vscode,anaconda,aws)](https://skillicons.dev)
 
 ---
 
