@@ -11,10 +11,10 @@ I am focused on sharpening my language skills, learning algorithms and building 
 
 ## About Me
 
-- Second year BSc Computer Science — Auckland University of Technology
+- Second year BSc Computer Science / Auckland University of Technology
 - Major: Software Development
 - Minor: Artificial Intelligence and Digital Services
-- Open to software engineering internships — Summer 2026
+- Open to software engineering internships / Summer 2026
 
 ---
 
